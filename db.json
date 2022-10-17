@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "email": "admin2@gmail.com",
+      "first_name": "ádsaasd",
+      "last_name": "dsadsad",
+      "avatar": "sadsad",
+      "id": 10
+    },
+    {
+      "email": "luanguyennb0@gmail.com",
+      "first_name": "tgrtyrdd",
+      "last_name": "",
+      "avatar": "",
+      "id": 12
+    },
+    {
+      "email": "ad@gmail.com",
+      "first_name": "sdasd",
+      "last_name": "sd",
+      "avatar": "ds",
+      "id": 13
+    },
+    {
+      "email": "ememem26011997@gmail.com",
+      "first_name": "2dsa222",
+      "last_name": "qe44",
+      "avatar": "",
+      "id": 14
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$aazj8B6vbuclP9i2iU.1AeopvS9kpxMfX0wCG8c5cbiNXXvCT0SfO",
+      "id": 1
+    },
+    {
+      "email": "ad@gmail.com",
+      "password": "$2a$10$Abef.QZUCWu5FEi5aobtSuQbGoXBUFh.E5NO6ipwQLLQZxjM9n7re",
+      "id": 2
+    }
+  ]
+}

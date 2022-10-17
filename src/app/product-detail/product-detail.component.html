@@ -1,0 +1,26 @@
+<table class="table table-bordererd" *ngIf="detail">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Avatar</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>{{ detail.first_name }}</td>
+      <td>{{ detail.email }}</td>
+      <td><img src="{{ detail.avatar }}" alt="" /></td>
+      <td>
+        <button class="btn btn-danger">
+          <!-- <a routerLink="/admin/edit/:id"> -->
+          edit
+          <!-- </a> -->
+        </button>
+      </td>
+    </tr>
+  </tbody>
+</table>
